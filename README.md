@@ -1,5 +1,6 @@
 # qb-ifruitstore
-iFruit Robbery For QB-Core
+iFruit Robbery For QB-Core ported to over Dons Apples, because the iFruit MLO used is expensive and buggy, causing holes throughout the entire Vangelico area!
+This is a simple coord change etc. made by one of my customers and with her permission has now been reposted on my github!
 
 # License
 
